@@ -40,8 +40,3 @@ Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento acad�
 |----------------|-----------------|----------------|----------------|
 
 
-
-> Puedes añadir aquí imágenes con capturas de tu app.
-
-```markdown
-![Captura de ejemplo](ruta/a/la/captura.png)
