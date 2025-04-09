@@ -11,7 +11,6 @@
 - [📖 Introducción](#-introducción)
 - [🎯 Objetivos](#-objetivos)
 - [🛠️ Tecnologías](#-tecnologías)
-- [📷 Capturas](#-capturas)
 - [👨‍💻 Autor](#-autor)
 
 ---
