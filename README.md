@@ -1,7 +1,47 @@
-### 🚀📖 EducaWeb 📖🚀
+<h1 align="center">🎓 EducaWeb</h1>
 
-⭐ Proyecto Fin de Grado
-<hr>
-INTRODUCIÓN
+<p align="center">
+  🚀 Proyecto de Fin de Grado | Plataforma educativa online 📚
+</p>
 
-EducaWeb es una plataforma educativa que nos ofrece un entorno web interactivo, accesible y funcional donde profesores y alumnos puedan gestionar de manera eficiente el aprendizaje online. La plataforma permite la creación, publicación y seguimiento de cursos, así como la realización de evaluaciones y el análisis del rendimiento académico, con el objetivo de facilitar el proceso formativo tanto en contextos escolares como en formación continua.
+<hr />
+
+## 📌 Índice
+
+- [📖 Introducción](#-introducción)
+- [🎯 Objetivos](#-objetivos)
+- [🛠️ Tecnologías](#-tecnologías)
+- [📷 Capturas](#-capturas)
+- [👨‍💻 Autor](#-autor)
+
+---
+
+## 📖 Introducción
+
+**EducaWeb** es una plataforma educativa que ofrece un entorno web interactivo, accesible y funcional donde profesores y alumnos pueden gestionar de manera eficiente el aprendizaje online. 
+
+Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento académico, con el objetivo de facilitar el proceso formativo tanto en contextos escolares como en formación continua.
+
+---
+
+## 🎯 Objetivos
+
+- ✅ Gestión de usuarios (profesores/alumnos)
+- ✅ Creación y seguimiento de cursos
+- ✅ Subida de contenidos multimedia
+- ✅ Evaluaciones tipo test o desarrollo
+- ✅ Estadísticas de rendimiento
+
+---
+
+## 🛠️ Tecnologías
+
+| Frontend        | Backend         | Base de Datos  | Otros         |
+|----------------|-----------------|----------------|----------------|
+
+
+
+> Puedes añadir aquí imágenes con capturas de tu app.
+
+```markdown
+![Captura de ejemplo](ruta/a/la/captura.png)
