@@ -6,7 +6,7 @@
 
 <hr />
 
-## 📌 Índice
+## 📌 Indice
 
 - [📖 Introducción](#-introducción)
 - [🎯 Objetivos](#-objetivos)
@@ -25,17 +25,17 @@ Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento acad�
 
 ## 🎯 Objetivos
 
-- ✅ Gestión de usuarios (profesores/alumnos)
-- ✅ Creación y seguimiento de cursos
-- ✅ Subida de contenidos multimedia
-- ✅ Evaluaciones tipo test o desarrollo
-- ✅ Estadísticas de rendimiento
+✅ Gestión de usuarios (profesores/alumnos)
+✅ Creación y seguimiento de cursos
+✅ Subida de contenidos multimedia
+✅ Evaluaciones tipo test o desarrollo
+✅ Estadísticas de rendimiento
 
 ---
 
 ## 🛠️ Tecnologías
 
-| Frontend        | Backend         | Base de Datos  | Otros         |
-|----------------|-----------------|----------------|----------------|
+| Frontend        | Backend         | Base de Datos  | Otros         
+
 
 
