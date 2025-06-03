@@ -50,7 +50,7 @@ Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento acad�
 
 ## 👨‍💻 Autor
 
-Desarrollado por Daniel Rincon Begines , estudiante de Grado en Ingeniería Informática.  
+Desarrollado por **Daniel Rincon Begines** , estudiante de Grado en Ingeniería Informática.  
 Este proyecto ha sido realizado como parte del **Trabajo de Fin de Grado (TFG)**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
