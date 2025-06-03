@@ -6,7 +6,7 @@
 
 <hr />
 
-## 📌 Indice
+## 📌 Índice
 
 - [📖 Introducción](#-introducción)
 - [🎯 Objetivos](#-objetivos)
@@ -25,17 +25,41 @@ Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento acad�
 
 ## 🎯 Objetivos
 
-✅ Gestión de usuarios (profesores/alumnos)
-✅ Creación y seguimiento de cursos
-✅ Subida de contenidos multimedia
-✅ Evaluaciones tipo test o desarrollo
-✅ Estadísticas de rendimiento
+✅ Gestión de usuarios (profesores/alumnos)  
+✅ Creación y seguimiento de cursos  
+✅ Subida de contenidos multimedia  
+✅ Evaluaciones tipo test o desarrollo  
+✅ Estadísticas de rendimiento  
+✅ Registro e inicio de sesión seguro  
+✅ Panel de administración  
+✅ Diseño responsive y accesible  
 
 ---
 
 ## 🛠️ Tecnologías
 
-| Frontend        | Backend         | Base de Datos  | Otros         
+| Frontend        | Backend         | Base de Datos  | Otros                      |
+|-----------------|-----------------|----------------|-----------------------------|
+| Angular 17      | Spring Boot 3   | MySQL          | JWT (Json Web Tokens)       |
+| HTML5 / CSS3    | Java 17         |                | Docker                      |
+| TypeScript      | Maven           |                | Swiper.js (banners)         |
+| SCSS            |                 |                | Chart.js (estadísticas)     |
+| RxJS            |                 |                | RESTful API                 |
+| Angular Router  |                 |                | Git / GitHub                |
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado por **[Tu Nombre]**, estudiante de Grado en Ingeniería Informática.  
+Este proyecto ha sido realizado como parte del **Trabajo de Fin de Grado (TFG)**.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+📧 tuemail@ejemplo.com  
+
+---
+
+> 🧠 *"La educación es el arma más poderosa que puedes usar para cambiar el mundo."* — Nelson Mandela
 
 
 
