@@ -54,7 +54,7 @@ Desarrollado por **Daniel Rincon Begines** , estudiante de Grado en Ingeniería 
 Este proyecto ha sido realizado como parte del **Trabajo de Fin de Grado (TFG)**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-📧 tuemail@ejemplo.com  
+📧 dsnielribegi23@gmail.com  
 
 ---
 
