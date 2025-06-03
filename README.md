@@ -38,20 +38,19 @@ Permite el seguimiento de cursos, evaluaciones y análisis del rendimiento acad�
 
 ## 🛠️ Tecnologías
 
-| Frontend        | Backend         | Base de Datos  | Otros                      |
+| Frontend        | Backend         | Base de Datos  | Otros                       | 
 |-----------------|-----------------|----------------|-----------------------------|
-| Angular 17      | Spring Boot 3   | MySQL          | JWT (Json Web Tokens)       |
-| HTML5 / CSS3    | Java 17         |                | Docker                      |
-| TypeScript      | Maven           |                | Swiper.js (banners)         |
-| SCSS            |                 |                | Chart.js (estadísticas)     |
-| RxJS            |                 |                | RESTful API                 |
-| Angular Router  |                 |                | Git / GitHub                |
+| Angular 17      | Syfony          | postgred       | JWT (Json Web Tokens)       |
+| HTML5 / CSS3    | Maven           |                | Docker                      |
+| TypeScript      |                 |                | Swiper.js (banners)         |   
+| Angular Router  |                 |                | RESTful API                 |
+|                 |                 |                | Git / GitHub                |
 
 ---
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]**, estudiante de Grado en Ingeniería Informática.  
+Desarrollado por Daniel Rincon Begines , estudiante de Grado en Ingeniería Informática.  
 Este proyecto ha sido realizado como parte del **Trabajo de Fin de Grado (TFG)**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
