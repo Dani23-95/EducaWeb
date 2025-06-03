@@ -40,7 +40,7 @@ Permite el seguimiento de cursos, evaluaciones y an√°lisis del rendimiento acad√
 
 | Frontend        | Backend         | Base de Datos  | Otros                       | 
 |-----------------|-----------------|----------------|-----------------------------|
-| Angular 17      | Syfony          | postgred       | JWT (Json Web Tokens)       |
+| Angular 17      | Symfony         | Postgred       | JWT (Json Web Tokens)       |
 | HTML5 / CSS3    | Maven           |                | Docker                      |
 | TypeScript      |                 |                | Swiper.js (banners)         |   
 | Angular Router  |                 |                | RESTful API                 |
